@@ -1,2 +1,5 @@
 print("Hello, World!")
 print("Welcome to the world of Python programming!")
+print("This is a simple Python script that prints some messages to the console.")
+print("You can modify this script to include more complex logic and functionality.")
+print("Python is a versatile programming language that can be used for web development, data analysis")
